@@ -1,0 +1,1 @@
+Breast cancer mortality and survival prediction based on different stages of the tumor and the tumor size. Preprocessing was done to remove ouliers, mitigate missing values, encode data types and remove unique values.
